@@ -1,4 +1,4 @@
-# Gjj-pheno
+# Single b-tagging
 
 Instructions [here](https://drive.google.com/file/d/0B3qwNGluXsHSUW9fdTNDRHh0LW8/view?usp=sharing)
 
