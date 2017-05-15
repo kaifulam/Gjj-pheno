@@ -26,8 +26,8 @@ f = h5py.File(filepath+'gjj_Variables.hdf5', 'r')
 high = f['high_input'][0:10000000]
 y = f['y_input'][0:10000000]
 
-high_sig_collect = high[y[:,0].astype(bool), :,:]
-high_bg_collect = high[y[:,1].astype(bool),:,:]
+high_sig_collect = high[y[:,1].astype(bool), :,:]
+high_bg_collect = high[y[:,0].astype(bool),:,:]
 
 # same as Rev1 below
 histo_sig_collector = []
