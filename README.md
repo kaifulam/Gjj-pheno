@@ -14,7 +14,7 @@ Before you dig into my codes, below are some good intuition refreshers...
 
 ![Large Hadron Collider](http://stanford.edu/group/stanford_atlas/pictures/collision/LHC.jpg)
 
-The [7 detectors](https://home.cern/about/experiments) along the [Large Hadron Collider (LHC)](https://home.cern/topics/large-hadron-collider) are like big data generators. The LHC guide particles to smash against each other head on, and the detectors record all the bits and pieces that come out of it.
+The [four main detectors](https://home.cern/about/experiments) along the [Large Hadron Collider (LHC)](https://home.cern/topics/large-hadron-collider) are like big data generators. The LHC guide particles to smash against each other head on, and the detectors record all the bits and pieces that come out of it.
 
 There're many smart people in CERN. (duh..) Some of them write algorithms to reconstruct trajectories of particles inside the detector. This is like tracing a [multiple head missile](https://en.wikipedia.org/wiki/Multiple_independently_targetable_reentry_vehicle#/media/File:Minuteman_III_MIRV_path.svg) backwards to the origin. The goal here is to identify the original particle (actually observed as [Jets](https://en.wikipedia.org/wiki/Jet_(particle_physics))) that creates all these mess in the detector based on a collection of trajectory variables.
 
