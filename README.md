@@ -1,8 +1,6 @@
 ## Particle identification and Machine Learning - Single b tagging
 
-
-
-![Higgs Boson](http://stanford.edu/group/stanford_atlas/pictures/collision/LHC.jpg)
+![Standard Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/300px-Standard_Model_of_Elementary_Particles.svg.png)
 
 Particle identification and Machine Learning... If you found this page, I'm sure you've at least watched a few youtube videos about these two things! You're a certified geek!
 
@@ -11,6 +9,8 @@ Before you dig into my codes, below are some good intuition refreshers...
 **Higgs Bosons** - [Don Lincoln's 3 minute video](https://youtu.be/RIg1Vh7uPyw), [Sean Carroll on Great Course Plus](https://www.thegreatcoursesplus.com/the-higgs-boson-and-beyond/the-importance-of-the-higgs-boson) (It's worth the subscription fees!)
 
 **Neural Network in Machine Learning** - [DeepLearning.TV series](https://youtu.be/b99UVkWzYTQ), [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning)
+
+![Large Hadron Collider](http://stanford.edu/group/stanford_atlas/pictures/collision/LHC.jpg)
 
 The [7 detectors](https://home.cern/about/experiments) along the [Large Hadron Collider (LHC)](https://home.cern/topics/large-hadron-collider) are like big data generators. The LHC guide particles to smash against each other head on, and the detectors record all the bits and pieces that come out of it.
 
