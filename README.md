@@ -1,8 +1,10 @@
-## Higgs Bosons and Machine Learning - Single b tagging
+## Particle identification and Machine Learning - Single b tagging
 
-![Higgs Boson](http://cdn8.openculture.com/wp-content/uploads/2012/07/higgsboson.jpeg)
 
-Higgs Bosons and Machine Learning... If you found this page, I'm sure you've at least watched a few youtube videos about these two things! You're a certified geek!
+
+![Higgs Boson](http://stanford.edu/group/stanford_atlas/pictures/collision/LHC.jpg)
+
+Particle identification and Machine Learning... If you found this page, I'm sure you've at least watched a few youtube videos about these two things! You're a certified geek!
 
 Before you dig into my codes, below are some good intuition refreshers...
 
