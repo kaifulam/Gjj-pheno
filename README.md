@@ -4,9 +4,11 @@
 
 Particle identification and Machine Learning... If you found this page, I'm sure you've at least watched a few youtube videos about these two things! You're a certified geek!
 
+This project focused on b-tagging, the identification of bottom quarks in a particle accelerator detector. Here is a link to my paper ["b tagging using neural network"](https://drive.google.com/file/d/0B3qwNGluXsHSQ05XV2wzQXRraTA). 
+
 Before you dig into my codes, below are some good intuition refreshers...
 
-**Higgs Bosons** - [Don Lincoln's 3 minute video](https://youtu.be/RIg1Vh7uPyw), [Sean Carroll on Great Course Plus](https://www.thegreatcoursesplus.com/the-higgs-boson-and-beyond/the-importance-of-the-higgs-boson) (It's worth the subscription fees!)
+**b-tagging** - [SLAC public lecture](https://youtu.be/Sd7T23h334g), [The Standard Model by DrPhysicsA](https://youtu.be/d1zaw-KZX1o)
 
 **Neural Network in Machine Learning** - [DeepLearning.TV series](https://youtu.be/b99UVkWzYTQ), [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning)
 
